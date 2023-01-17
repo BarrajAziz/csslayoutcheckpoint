@@ -1,0 +1,258 @@
+.content {
+  width: 72.5%;
+  margin: auto;
+}
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: white;
+  position: sticky;
+  width: 100%;
+  top: 0px;
+  right: 0px;
+  left: 0%;
+  box-shadow: 0 4px 4px -4px grey;
+  /* box-shadow: 0px 6px 0px 0px #888888; */
+}
+.about {
+  color: rgb(23, 170, 84);
+  text-decoration: none;
+  line-height: 2em;
+  font-size: 0.9375rem;
+  font-family: "Roboto", sans-serif;
+}
+.career {
+  color: #ababab;
+  text-decoration: none;
+  line-height: 2em;
+  font-size: 0.9375rem;
+  font-family: "Roboto", sans-serif;
+  font-weight: lighter;
+}
+.departments {
+  color: #ababab;
+  text-decoration: none;
+  line-height: 2em;
+  font-size: 0.9375rem;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+.pages {
+  display: flex;
+  justify-content: space-around;
+  width: 230px;
+}
+.logo {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+.underlogo {
+  display: flex;
+  justify-content: center;
+  color: #00b39b;
+  font-family: "Work Sans", sans-serif;
+}
+.paragraphs {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  color: #747474;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: medium;
+  margin-bottom: 50px;
+  justify-content: space-between;
+}
+.p1 {
+  width: 49%;
+}
+.p2 {
+  width: 49%;
+}
+.box1 {
+  display: flex;
+  flex-direction: column;
+  height: 345px;
+  width: 30.3%;
+  background-color: #00ccb1;
+  border-radius: 10px;
+  padding: 2em 2em 0;
+  margin-right: 2%;
+  color: white;
+}
+.box2 {
+  display: flex;
+  flex-direction: column;
+  height: 345px;
+  width: 30.3%;
+  color: white;
+  background-color: #3d83df;
+  border-radius: 10px;
+  padding: 2em 2em 0;
+}
+.box3 {
+  display: flex;
+  flex-direction: column;
+  height: 345px;
+  width: 30.3%;
+  color: white;
+  background-color: #1b2734;
+  border-radius: 10px;
+  padding: 2em 2em 0;
+  margin-left: 2%;
+}
+.boxes {
+  display: flex;
+  justify-content: space-between;
+}
+.periphericlinks {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 800px;
+  height: 200px;
+}
+.underboxes {
+  display: flex;
+  justify-content: center;
+}
+.thegreenbackground {
+  background-color: #00b39b;
+  width: 100%;
+  padding: 30px;
+}
+.parag1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.improve {
+  flex-direction: column;
+  width: 300px;
+}
+.morethan2600 {
+  width: 600px;
+  justify-content: center;
+}
+.Warsaw {
+  width: 30.33%;
+
+  border-radius: 6px;
+}
+.descrption {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.barcelona {
+  width: 30.33%;
+
+  border-radius: 6px;
+}
+.descrption2 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.munich {
+  width: 30.33%;
+
+  border-radius: 6px;
+}
+.descrption3 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.istanbul {
+  width: 30.33%;
+
+  border-radius: 6px;
+}
+.descrption4 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.rome {
+  width: 30.33%;
+
+  border-radius: 6px;
+}
+.descrption5 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.bologna {
+  width: 30.33%;
+
+  border-radius: 6px;
+}
+.descrption6 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.curitiba {
+  width: 30.33%;
+
+  border-radius: 6px;
+}
+.descrption7 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.riodejaneiro {
+  width: 30.33%;
+
+  border-radius: 6px;
+}
+.descrption8 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.mexico {
+  width: 30.33%;
+
+  border-radius: 6px;
+}
+.descrption9 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.cities {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: space-between;
+
+  height: 1150px;
+}
+.lastphrase {
+  display: flex;
+  justify-content: center;
+}
+.BOUTON {
+  display: flex;
+  justify-content: center;
+}
+.lastbox {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+footer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: center;
+  text-decoration: none;
+}
